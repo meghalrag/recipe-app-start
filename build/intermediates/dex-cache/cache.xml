@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user\Desktop\meghalrag\search-samples-master\recipe-app-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\user\Desktop\meghalrag\search-samples-master\recipe-app-start\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-dd2b5dc160a873f2ab1208149666f3f486291b43.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\meghalrag\search-samples-master\recipe-app-start\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0c0c19759e5868604a3b4c2c0074ee9404d73c76">
+        <dex dex="C:\Users\user\Desktop\meghalrag\search-samples-master\recipe-app-start\app\build\intermediates\pre-dexed\debug\classes-883e468be94797926bf929548cc7f6503c220ea0.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\user\Desktop\meghalrag\search-samples-master\recipe-app-start\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-a30289304420bd3972ed4868aea31bb74ad9037f.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\meghalrag\search-samples-master\recipe-app-start\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\user\Desktop\meghalrag\search-samples-master\recipe-app-start\app\build\intermediates\pre-dexed\debug\classes-7270a4371c4e4b5744a65e579fece572c08526c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\meghalrag\search-samples-master\recipe-app-start\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5a8e01742aee890c56fe638ea7c921b91a3fdc62">
+        <dex dex="C:\Users\user\Desktop\meghalrag\search-samples-master\recipe-app-start\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-f209d2ec08fd8f1dc4ccd4ff3e4ba883ea861f2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\user\Desktop\meghalrag\search-samples-master\recipe-app-start\app\build\intermediates\pre-dexed\debug\picasso-2.3.2-7403eaedeebec0ca052c452eeb82ec3fcc3840ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="C:\Users\user\Desktop\meghalrag\search-samples-master\recipe-app-start\app\build\intermediates\pre-dexed\debug\sqliteassethelper-2.0.1-a1d0287adf7b971628680626250ce7a41d224788.jar" />
+    </item>
+
+</items>
